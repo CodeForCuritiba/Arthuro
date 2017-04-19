@@ -2,11 +2,11 @@
 Aplicativo para facilitar a aprendizagem de crianças com autismo.
 
 # Apresentação
-Sabe-se que 1 em cada 110 crianças tem autismo com base nesses dados o aplicativo arthuro vem para trazer a alfabetização de crianças com habilidades especiais.
-A alfabetização consiste no aprendizado do alfabeto bem como a sua utilização e as operações básicas como adição, subtração, multiplicação e divisão.
+arthuro vem para trazer a alfabetização de crianças com com dificuldades de aprendizagem.
+A alfabetização consiste na Leitura, escrita, interpletação de texto e mais as quatro operações matemáticas básicas.
 
-# Objetivos gerais
-- Auxiliar que crianças com autismo sejam alfabetizadas
+# Casos de uso
+- Auxiliar que crianças com dificuldade de aprendizado
 
 
 

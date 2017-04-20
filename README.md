@@ -13,6 +13,6 @@ A alfabetização pode ser dividida em quatro etapas são elas:
 
 # Casos de uso
 - Auxiliar crianças com dificuldade de aprendizado.
-- Inclusão da família no processo de aprendizagem da criança.ar
+- Inclusão da família no processo de aprendizagem da criança.
 - Complementar as atividades extra curriculares.
 
